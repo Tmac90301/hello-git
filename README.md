@@ -1,9 +1,6 @@
 # hello-git
 My first git_repository
 
-Hello, everyone!
+做最好的自己！做一个有担当，成熟稳重，有安全感的人！做自己想做的事，去自己想去的地方，爱自己想爱的人！
 
-I'm a starter of iOS_developer.
-I find myself interested in this area because in the world of code, I can do so many things which can make my thought sense.
-
-Also I hope I can make my bright future by fighting in this area. I must give my parents, my lover the happiness they should have as I am a man who support my family most.
+Fighting is the everlasting theme of a man! Give the ones you love happiness!
